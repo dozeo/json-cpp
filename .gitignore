@@ -1,4 +1,11 @@
+# make and amalgamation outputs
+dist/
+
+# python compiled object
+*.pyc
+
 # ignore lib folder
 lib*
+
 # ignore object files
 *.o

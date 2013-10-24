@@ -1,3 +1,4 @@
+#!/usr/bin/python
 """Amalgate json-cpp library sources into a single source and header file.
 
 Requires Python 2.6
